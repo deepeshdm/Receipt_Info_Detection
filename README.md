@@ -49,6 +49,7 @@ cv2.imshow("RESULT",OUTPUT_IMG)
 cv2.waitKey(0)
 ```
    
+## NOTE : All the input images are automatically resized to 512x512.
 
 
 
