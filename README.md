@@ -13,7 +13,7 @@ An object detection system which can detect useful information like address & pr
 
 1. Git clone the repository on your system. This will download the pre-trained model and required files on your computer.
 ```
-git clone https://github.com/deepeshdm/fiverr-hasijayawardana-object-detector.git
+git clone https://github.com/deepeshdm/Receipt_Info_Detection.git
 ```
 
 2. Install the required dependencies to run the app
