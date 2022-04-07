@@ -31,7 +31,7 @@ from API import make_detection
 IMAGE_PATH = 'C:/Users/Deepesh/Desktop/Receipt Detection/Resized Receipt Images/image_85.jpg'
 
 # PROVIDE PATH TO LABEL MAP
-LABELS_PATH = 'C:/Users\Deepesh/Desktop/Receipt Detection/label_map.pbtxt'
+LABELS_PATH = 'C:/Users/Deepesh/Desktop/Receipt Detection/label_map.pbtxt'
 
 MODEL_PATH = "C:/Users/Deepesh/Desktop/Receipt Detection/trained_model/saved_model"
 
@@ -49,7 +49,7 @@ cv2.imshow("RESULT",OUTPUT_IMG)
 cv2.waitKey(0)
 ```
    
-## NOTE : All the input images are automatically resized to 512x512.
+### NOTE : All the input images are automatically resized to 512x512.
 
 
 
